@@ -41,7 +41,7 @@
 		0A99EDF547114853F6C9E172370FBDF8 /* WGTest.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = WGTest.release.xcconfig; sourceTree = "<group>"; };
 		0DC68526C8985CBFF477EFF33BC4329C /* Pods-WGTest_Example */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "Pods-WGTest_Example"; path = Pods_WGTest_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		12223D6CBC66FF78740758E0482F13E9 /* Pods-WGTest_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-WGTest_Tests.modulemap"; sourceTree = "<group>"; };
-		1410382BB8BFD67C5C76A12B579DA13C /* WGTest */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = WGTest; path = WGTest.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		1410382BB8BFD67C5C76A12B579DA13C /* WGTest.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = WGTest.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		209948B92068200EF9DA40F6B497312D /* WGTest-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "WGTest-prefix.pch"; sourceTree = "<group>"; };
 		20F3387FE0A903A88A846A8B4A7D58FD /* Pods-WGTest_Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-WGTest_Tests-Info.plist"; sourceTree = "<group>"; };
 		373589B0301A43D1745095913A9297BF /* WGTest-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "WGTest-Info.plist"; sourceTree = "<group>"; };
@@ -54,14 +54,14 @@
 		73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		91AA4E163A985A61F562E1A3BD548EA2 /* Pods-WGTest_Tests */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "Pods-WGTest_Tests"; path = Pods_WGTest_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		929880D03A07B91A332127235297E19A /* WGTest-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "WGTest-umbrella.h"; sourceTree = "<group>"; };
-		94D5779C176F00FFE2AB82CEA9649CB0 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		94D5779C176F00FFE2AB82CEA9649CB0 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		9997DCA127B494DD40A34223CDCC1323 /* Pods-WGTest_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-WGTest_Example.release.xcconfig"; sourceTree = "<group>"; };
 		9D8F11A02F9D4CE409E99ADD4137A16E /* Pods-WGTest_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-WGTest_Example-acknowledgements.plist"; sourceTree = "<group>"; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		A2B0B3FE1A3C2852FFCDF6DCA813F88C /* ReplaceMe.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ReplaceMe.swift; path = WGTest/Classes/ReplaceMe.swift; sourceTree = "<group>"; };
 		AABE6BB75752CBC7D1FF9F7DC9631F5F /* WGTest.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = WGTest.debug.xcconfig; sourceTree = "<group>"; };
-		AF39D8AF3D772B4705E448AE9AEABF57 /* WGTest.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = WGTest.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		AF82292C3407906071618E83A7F16036 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		AF39D8AF3D772B4705E448AE9AEABF57 /* WGTest.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = WGTest.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		AF82292C3407906071618E83A7F16036 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		B2A363C5DAE91266A3CED7C1978C4CC7 /* Pods-WGTest_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-WGTest_Example-umbrella.h"; sourceTree = "<group>"; };
 		B38383786A54FF0A0AC4BF99C434BCB8 /* Pods-WGTest_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-WGTest_Example-dummy.m"; sourceTree = "<group>"; };
 		D0410A4375D39BF968BA01783CCD6BD5 /* Pods-WGTest_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-WGTest_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
@@ -173,7 +173,7 @@
 			children = (
 				0DC68526C8985CBFF477EFF33BC4329C /* Pods-WGTest_Example */,
 				91AA4E163A985A61F562E1A3BD548EA2 /* Pods-WGTest_Tests */,
-				1410382BB8BFD67C5C76A12B579DA13C /* WGTest */,
+				1410382BB8BFD67C5C76A12B579DA13C /* WGTest.framework */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -268,7 +268,7 @@
 			);
 			name = WGTest;
 			productName = WGTest;
-			productReference = 1410382BB8BFD67C5C76A12B579DA13C /* WGTest */;
+			productReference = 1410382BB8BFD67C5C76A12B579DA13C /* WGTest.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 		2526DA2F7905E6F0CC8DDC6385929A7B /* Pods-WGTest_Example */ = {
@@ -565,8 +565,7 @@
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
-				SWIFT_COMPILATION_MODE = wholemodule;
-				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 				SWIFT_VERSION = 5.0;
 				SYMROOT = "${SRCROOT}/../build";
 			};
@@ -589,7 +588,7 @@
 				GCC_PREFIX_HEADER = "Target Support Files/WGTest/WGTest-prefix.pch";
 				INFOPLIST_FILE = "Target Support Files/WGTest/WGTest-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "Target Support Files/WGTest/WGTest.modulemap";
 				PRODUCT_MODULE_NAME = WGTest;
@@ -622,7 +621,7 @@
 				GCC_PREFIX_HEADER = "Target Support Files/WGTest/WGTest-prefix.pch";
 				INFOPLIST_FILE = "Target Support Files/WGTest/WGTest-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "Target Support Files/WGTest/WGTest.modulemap";
 				PRODUCT_MODULE_NAME = WGTest;
