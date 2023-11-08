@@ -38,5 +38,5 @@ TODO: Add long description of the pod here.
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
-  s.dependency 'MMKV', '~> 1.2.4'
+  # s.dependency 'MMKV', '~> 1.2.4'
 end

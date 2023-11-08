@@ -1,26 +1,15 @@
 PODS:
-  - MMKV (1.2.16):
-    - MMKVCore (~> 1.2.16)
-  - MMKVCore (1.2.16)
-  - WGTest (0.1.0):
-    - MMKV (~> 1.2.4)
+  - WGTest (0.1.0)
 
 DEPENDENCIES:
   - WGTest (from `../`)
-
-SPEC REPOS:
-  trunk:
-    - MMKV
-    - MMKVCore
 
 EXTERNAL SOURCES:
   WGTest:
     :path: "../"
 
 SPEC CHECKSUMS:
-  MMKV: 784471ce430a2e2d16afef9053d63fab1b357d9e
-  MMKVCore: 9cfef4c48c6c46f66226fc2e4634d78490206a48
-  WGTest: 43924c01c36e1dbaec72c556fb495b3423c0c0ac
+  WGTest: 28bdf3a67f1ad188c976a221339fb7b3e301c098
 
 PODFILE CHECKSUM: 344ade8c51fa95f5babca7392cad64d3f8e512af
 

@@ -10,10 +10,6 @@
 #endif
 #endif
 
-#import "WGCache.h"
-#import "WGCacheSpace.h"
-#import "WGDiskCache.h"
-#import "WGMemoryCache.h"
 
 FOUNDATION_EXPORT double WGTestVersionNumber;
 FOUNDATION_EXPORT const unsigned char WGTestVersionString[];
