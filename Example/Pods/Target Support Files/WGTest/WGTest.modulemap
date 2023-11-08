@@ -1,0 +1,6 @@
+framework module WGTest {
+  umbrella header "WGTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
