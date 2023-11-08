@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "summary": "A short description of WGTest.",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/jqy/WGTest",
+  "homepage": "https://github.com/jqygithud/WGTest",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,7 +12,7 @@
     "jqy": "632624982@qq.com"
   },
   "source": {
-    "git": "https://github.com/jqy/WGTest.git",
+    "git": "https://github.com/jqygithud/WGTest.git",
     "tag": "0.1.0"
   },
   "platforms": {
